@@ -1,3 +1,5 @@
+#Tools đang trong quá trình phát triển
+
 from codecs import unicode_escape_decode
 from unicodedata import unidata_version
 #import session để lưu lại cookie >> nhớ không lầm là vậy
